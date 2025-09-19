@@ -11,7 +11,7 @@ export default function Home() {
               class="box-border caret-transparent inline min-h-0 min-w-0 md:block md:min-h-[auto] md:min-w-[auto]"
             >
               <div class="items-center box-border caret-transparent gap-x-4 flex gap-y-4">
-                <img
+                <Image
                   src="https://c.animaapp.com/mfqxjkc9z33UY5/assets/logo.DJnDsPC3.svg"
                   alt="Lighter Logo"
                   class="aspect-[auto_22_/_40] box-border caret-transparent max-w-full min-h-0 min-w-0 w-[22px] md:min-h-[auto] md:min-w-[auto]"
@@ -30,7 +30,7 @@ export default function Home() {
                       role="button"
                       class="items-center box-border caret-transparent flex h-5 min-h-0 min-w-0 w-2.5 md:min-h-[auto] md:min-w-[auto]"
                     >
-                      <img
+                      <Image
                         src="https://c.animaapp.com/mfqxjkc9z33UY5/assets/small-arrow.BHW28frE.svg"
                         class="box-border caret-transparent max-w-full min-h-0 min-w-0 mt-0.5 md:min-h-[auto] md:min-w-[auto]"
                       />
@@ -52,7 +52,7 @@ export default function Home() {
                       role="button"
                       class="items-center box-border caret-transparent flex h-5 min-h-0 min-w-0 w-2.5 md:min-h-[auto] md:min-w-[auto]"
                     >
-                      <img
+                      <Image
                         src="https://c.animaapp.com/mfqxjkc9z33UY5/assets/small-arrow.BHW28frE.svg"
                         class="box-border caret-transparent max-w-full min-h-0 min-w-0 mt-0.5 md:min-h-[auto] md:min-w-[auto]"
                       />
@@ -76,7 +76,7 @@ export default function Home() {
                 href="/"
                 class="box-border caret-transparent block min-h-[auto] min-w-[auto] md:inline md:min-h-0 md:min-w-0"
               >
-                <img
+                <Image
                   src="https://c.animaapp.com/mfqxjkc9z33UY5/assets/logo.DJnDsPC3.svg"
                   alt="Logo"
                   class="aspect-[auto_14_/_26] box-border caret-transparent max-w-full w-3.5"
@@ -92,7 +92,7 @@ export default function Home() {
               </button>
             </div>
           </astro-island>
-          <img
+          <Image
             src="https://c.animaapp.com/mfqxjkc9z33UY5/assets/heroLight.xUmJDoSN.svg"
             alt="Hero Light"
             class="absolute box-border caret-transparent blur max-w-full mix-blend-color-dodge top-[-50px] z-[9999] left-0 md:blur-2xl"
@@ -118,7 +118,7 @@ export default function Home() {
                 </div>
               </div>
             </div>
-            <img
+            <Image
               src="https://c.animaapp.com/mfqxjkc9z33UY5/assets/appScreenshot.Dfm9zJZZ.png"
               class="box-border caret-transparent max-w-full w-full rounded-2xl border-2 border-solid border-white/10"
             />
@@ -137,7 +137,7 @@ export default function Home() {
                       href="https://a16z.com/"
                       class="box-border caret-transparent block"
                     >
-                      <img
+                      <Image
                         src="https://c.animaapp.com/mfqxjkc9z33UY5/assets/andreessenhorowitz.DLUStz2v.svg"
                         alt="Andreessen Horowitz"
                         class="box-border caret-transparent max-w-full"
@@ -149,7 +149,7 @@ export default function Home() {
                       href="https://lsvp.com/"
                       class="box-border caret-transparent block"
                     >
-                      <img
+                      <Image
                         src="https://c.animaapp.com/mfqxjkc9z33UY5/assets/lightspeed.DG0UaUiD.svg"
                         alt="Lightspeed"
                         class="box-border caret-transparent max-w-full"
@@ -164,24 +164,24 @@ export default function Home() {
                 </p>
                 <div class="box-border caret-transparent gap-x-[50px] flex flex-col gap-y-[50px] md:flex-row">
                   <div class="box-border caret-transparent h-5 w-[100px] md:h-[50px] md:w-[280px]">
-                    <img
+                    <Image
                       src="https://c.animaapp.com/mfqxjkc9z33UY5/assets/zksecurity.AiHiY7vV.svg"
                       alt="ZK Security"
                       class="box-border caret-transparent block max-w-full md:hidden"
                     />
-                    <img
+                    <Image
                       src="https://c.animaapp.com/mfqxjkc9z33UY5/assets/zksecurity.AiHiY7vV.svg"
                       alt="ZK Security"
                       class="box-border caret-transparent hidden max-w-full md:block"
                     />
                   </div>
                   <div class="box-border caret-transparent h-5 w-[100px] md:h-[50px] md:w-[280px]">
-                    <img
+                    <Image
                       src="https://c.animaapp.com/mfqxjkc9z33UY5/assets/nethermind.j3w-peko.svg"
                       alt="Nethermind"
                       class="box-border caret-transparent block max-w-full md:hidden"
                     />
-                    <img
+                    <Image
                       src="https://c.animaapp.com/mfqxjkc9z33UY5/assets/nethermind.CfwrNNqO.svg"
                       alt="Nethermind"
                       class="box-border caret-transparent hidden max-w-full md:block"
@@ -190,7 +190,7 @@ export default function Home() {
                 </div>
               </div>
             </div>
-            <img
+            <Image
               src="https://c.animaapp.com/mfqxjkc9z33UY5/assets/expensiveLogo.BN1BDl-v.svg"
               alt="Logo"
               class="box-border caret-transparent h-[200px] max-w-full w-[110px] md:h-[250px] md:w-[138px]"
@@ -220,7 +220,7 @@ export default function Home() {
                     href=""
                     class="box-border caret-transparent block min-h-0 min-w-0 md:min-h-[auto] md:min-w-[auto]"
                   >
-                    <img
+                    <Image
                       src="https://c.animaapp.com/mfqxjkc9z33UY5/assets/icon-1.svg"
                       alt="Icon"
                       class="text-gray-400 box-border caret-transparent h-6 w-6"
@@ -230,7 +230,7 @@ export default function Home() {
                     href=""
                     class="box-border caret-transparent block min-h-0 min-w-0 md:min-h-[auto] md:min-w-[auto]"
                   >
-                    <img
+                    <Image
                       src="https://c.animaapp.com/mfqxjkc9z33UY5/assets/icon-2.svg"
                       alt="Icon"
                       class="text-gray-400 box-border caret-transparent h-6 w-6"
@@ -240,7 +240,7 @@ export default function Home() {
                     href=""
                     class="box-border caret-transparent block min-h-0 min-w-0 md:min-h-[auto] md:min-w-[auto]"
                   >
-                    <img
+                    <Image
                       src="https://c.animaapp.com/mfqxjkc9z33UY5/assets/icon-3.svg"
                       alt="Icon"
                       class="text-gray-400 box-border caret-transparent h-6 w-6"
